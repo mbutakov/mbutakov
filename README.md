@@ -6,5 +6,4 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mbutakov)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mbutakov)](https://git.io/streak-stats)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ru)](https://git.io/typing-svg)
